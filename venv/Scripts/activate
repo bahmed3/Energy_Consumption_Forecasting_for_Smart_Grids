@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\notbi\Energy Consumption Forecasting\venv"
+VIRTUAL_ENV="C:\Users\notbi\Energy_Consumption_Forecasting_for_Smart_Grids\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

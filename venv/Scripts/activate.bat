@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\notbi\Energy Consumption Forecasting\venv
+set VIRTUAL_ENV=C:\Users\notbi\Energy_Consumption_Forecasting_for_Smart_Grids\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
